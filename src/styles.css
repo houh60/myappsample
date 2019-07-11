@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+h1 {
+  color: #369;
+}
+
+table {
+  margin-left: 20px; 
+  color: #369;
+  border-collapse: collapse;
+  font-style: italic;
+}
+
+td, thead {
+  border: 1px solid red;
+}
